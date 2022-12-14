@@ -1,0 +1,6 @@
+D:\csharpPro\PortfolioForm\PortfolioForm\obj\Debug\PortfolioForm.csproj.AssemblyReference.cache
+D:\csharpPro\PortfolioForm\PortfolioForm\obj\Debug\PortfolioForm.csproj.SuggestedBindingRedirects.cache
+D:\csharpPro\PortfolioForm\PortfolioForm\obj\Debug\PortfolioForm.Form1.resources
+D:\csharpPro\PortfolioForm\PortfolioForm\obj\Debug\PortfolioForm.Properties.Resources.resources
+D:\csharpPro\PortfolioForm\PortfolioForm\obj\Debug\PortfolioForm.csproj.GenerateResource.cache
+D:\csharpPro\PortfolioForm\PortfolioForm\obj\Debug\PortfolioForm.csproj.CoreCompileInputs.cache
